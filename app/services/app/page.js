@@ -1,5 +1,9 @@
 import Link from "next/link";
 
+export const metadata = {
+  title: "AppDev"
+}
+
 export default function app() {
   return (
     <div>
