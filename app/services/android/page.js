@@ -4,7 +4,7 @@ export default function android() {
   return (
     <div>
       <h1>
-        welcome in about page
+        Android Development
       </h1>
       <ul>
         <li>
