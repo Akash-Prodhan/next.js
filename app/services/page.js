@@ -3,9 +3,6 @@ import Link from "next/link";
 export default function services() {
   return (
     <div>
-      <h1>
-        welcome in services page
-      </h1>
       <Link href={"/"}> Go to Home page</Link>
       <ul>
         <h1>All Services</h1>
