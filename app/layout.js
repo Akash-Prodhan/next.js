@@ -4,7 +4,7 @@ import Header from "@/components/Header";
 export const metadata = {
   title: {
     template: "%s | Technicle Agency",
-    // default : "Technicle Agency"
+    default : "Technicle Agency"
   }
 }
 
